@@ -7,10 +7,10 @@ const Product = ({
   location,
   imgSrc,
   alt,
-  lblOne,
-  qOne,
-  qTwo,
-  lblTwo,
+  labelOne,
+  quantityOne,
+  quantityTwo,
+  labelTwo,
 }) => (
   <div className={s.profile}>
     <div className={s.description}>
@@ -22,12 +22,12 @@ const Product = ({
 
     <ul className={s.stats}>
       <li>
-        <span className={s.label}>{lblOne} </span>
-        <span className={s.quantity}>{qOne}</span>
+        <span className={s.label}>{labelOne} </span>
+        <span className={s.quantity}>{quantityOne}</span>
       </li>
       <li>
-        <span className={s.label}>{lblTwo} </span>
-        <span className={s.quantity}>{qTwo}</span>
+        <span className={s.label}>{labelTwo} </span>
+        <span className={s.quantity}>{quantityTwo}</span>
       </li>
       <li>
         <span className={s.label}>Likes </span>
