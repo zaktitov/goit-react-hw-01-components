@@ -1,0 +1,20 @@
+.transactionHistory {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table td,
+table th {
+  text-align: center;
+  border: 1px solid black;
+  padding: 5px;
+}
+thead {
+  background-color: goldenrod;
+}
+
+table tbody tr:nth-child(even) {
+  background-color: gainsboro;
+}

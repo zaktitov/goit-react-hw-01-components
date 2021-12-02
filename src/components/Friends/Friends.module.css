@@ -1,0 +1,19 @@
+.isOnline::marker {
+  color: green;
+}
+
+.isOffline::marker {
+  color: red;
+}
+
+.isOnline {
+  color: green;
+}
+
+.isOffline {
+  color: red;
+}
+
+.avatar {
+  display: block;
+}

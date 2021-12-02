@@ -1,0 +1,13 @@
+{
+  "src": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+  "alt": "User avatar",
+  "class": "avatar",
+  "name": "Petra Marica",
+  "tag": "@pmarica<",
+  "location": "Salvador, Brasil",
+  "stats": {
+    "li-one": { "label": "Followers", "quantity": 1000 },
+    "li-two": { "label": "Views", "quantity": 2000 },
+    "li-three": { "label": "Likes", "quantity": 3000 }
+  }
+}
